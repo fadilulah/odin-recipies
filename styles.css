@@ -1,0 +1,22 @@
+.btn1,
+.btn2,
+.btn3,
+body{
+font-size: 30px;
+font-weight: bold;
+font-family:monospace,serif,Helvetica;
+background-color: black;
+text-align:center;
+}
+h1,
+h2{
+text-align: center;
+font-size: 50px;
+font-family:monospace,serif,Helvetica;
+color: red;
+}
+p,
+.list{
+    color: wheat;
+    font-size: 20px;
+}
